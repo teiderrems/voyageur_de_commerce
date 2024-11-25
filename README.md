@@ -6,7 +6,7 @@
 
 ## Algorithmes
 
-* Récuit simulé : le principe est disponible [ici](https://fr.wikipedia.org/wiki/Recuit_simul%C3%A9)
+* Recuit simulé : le principe est disponible [ici](https://fr.wikipedia.org/wiki/Recuit_simul%C3%A9)
 * Hill-Climbing : le principe est disponible [ici](https://fr.wikipedia.org/wiki/M%C3%A9thode_hill-climbing).
 
 ## Pré-réquit pour tester
